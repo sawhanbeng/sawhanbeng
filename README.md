@@ -2,7 +2,7 @@
 
 ## About Me :wave:
 I'm John. 
-A self-taught python coder who believes in automating repeatable processes and manage data by leveraging on python and others. 
+A self-taught python coder who believes in automating repeatable processes and manage data by leveraging on python and others. <br>
 ▶️ I’m currently learning Cybersecurity ◀️
 
 ## Connect with me 🤝
